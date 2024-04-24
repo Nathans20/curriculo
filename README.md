@@ -16,7 +16,7 @@ Status: Concluído!
  HTML - CSS 
 ````
 ## Funcionalidades
-- Mudar de estilos anos 80, para estilo 2024, vice-versa
+- Mudar de estilo dos anos 80 para estilo 2024, vice-versa
 
 
 ## Imagens Previa 
